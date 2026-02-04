@@ -1,5 +1,7 @@
 
 Full Project  (Times-series-Analysis-on-Stock-data-sets)
+
+
 Project Title: Time Series Analysis and Forecasting of Bajaj Auto Stock Prices
 Dataset: Daily stock prices of Bajaj Auto (2008–2019), focusing on 'Close' price.
 Objective: Analyze historical stock price patterns and forecast future values.
